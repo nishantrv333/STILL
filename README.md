@@ -36,4 +36,6 @@ Dark and light themes, and a sound toggle. Your theme, sound choice and best str
 
 ## Made by
 
-NV Games
+NV Games 
+
+[Nishant Vatnal - www.linkedin.com/in/nishant-vatnal-9b3006285]
