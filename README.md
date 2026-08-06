@@ -8,7 +8,7 @@ You race against a rival called Echo. First one to the finish line wins.
 
 ## How to play
 
-Open `inverse-race-v4.html` in any modern browser. That is it. No install, no server, no dependencies. It works on phones and desktops.
+Open `inverse-race-v4.html - (index.html)` in any modern browser. That is it. No install, no server, no dependencies. It works on phones and desktops.
 
 Tap the screen or press the space bar to jump.
 
@@ -34,8 +34,18 @@ Easy has wide gaps and a slower rival. Medium is balanced. Hard is unforgiving a
 
 Dark and light themes, and a sound toggle. Your theme, sound choice and best streak are saved in your browser.
 
+## Planned for future versions
+
+* A daily race where everyone plays the same track and compares times
+* A ghost of your own best run to race against
+* New rivals with different personalities as your streak grows
+* More obstacle types
+* Best time records for each difficulty
+* An endless mode with no finish line
+* A simple online leaderboard
+
 ## Made by
 
-NV Games 
+NV Games
 
-[Nishant Vatnal - www.linkedin.com/in/nishant-vatnal-9b3006285]
+Nishant Vatnal - www.linkedin.com/in/nishant-vatnal-9b3006285
