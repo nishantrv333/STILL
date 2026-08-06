@@ -1,4 +1,4 @@
-# STILL - https://nishantrv333.github.io/STILL-Game/
+# STILL -  https://nishantrv333.github.io/STILL-NV.Games/
 
 A small racing game where staying calm makes you faster.
 
